@@ -185,14 +185,13 @@
       min-height: unset;
       width: unset;
       height: unset;
-      background: url("https://ik.imagekit.io/wavenet/jn-v.jpg") no-repeat center bottom/cover;
+      background: url("https://ik.imagekit.io/wavenet/jn-vert.jpg") no-repeat right top/cover;
+      overflow-y: auto;
     }
     article {
-      inset: unset;
-      left: 0;
-      top: 0;
-      right: 0;
-
+      position: relative;
+      margin-top: 400px;
+      padding: 1px 20px;
     }
   }
 </style>
