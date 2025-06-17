@@ -64,11 +64,6 @@
       </p>
 
       <p>
-        Ses funérailles auront lieu ce samedi 14 juin à 9h en l’église
-        Saint-Martin de Tourpes, le village natal de Jean-Noël.
-      </p>
-
-      <p>
         Pour vous permettre de témoigner votre soutien à la famille, une adresse
         email
         <a
